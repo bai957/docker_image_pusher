@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 centos:7
 redis:6.0.8
-Ubuntu:18.04
+ubuntu:18.04
